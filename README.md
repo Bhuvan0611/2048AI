@@ -83,8 +83,7 @@ Or just double-click the index.html file in your system.
 
 ---
 
-👨‍💻 Author
-Venkata Bhuvan Kosuru
+
 
 
 
