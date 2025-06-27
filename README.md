@@ -72,7 +72,12 @@ It chooses moves that **maximize expected future score** — just like a real st
 
 ---
 
+👨‍💻 Author
+
+Venkata Bhuvan Kosuru
+
 ## 📦 Installation & Usage
+
 
 ```bash
 git clone https://github.com/your-username/2048-ai-game.git
