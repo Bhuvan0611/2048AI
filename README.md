@@ -17,9 +17,73 @@ Built entirely using **HTML**, **CSS (Tailwind)**, and **JavaScript** — no fra
 
 ---
 
+## 📽️ Gameplay Preview
+
+Open `results.mov` to preview gameplay in action!
+
+---
+
 ## 📁 File Structure
+
 
 📂 project-folder/
 ├── index.html # Main HTML file (structure only)
 ├── style.css # Tile styles, transitions, animations
-└── script.js # All game logic, input handling, and AI agent
+├── script.js # All game logic, input handling, and AI agent
+└── results.mov # Gameplay video preview
+
+---
+
+## 🧠 About the AI Agent
+
+The AI uses the **Expectimax algorithm**, which:
+- Simulates possible game states
+- Applies a **heuristic scoring function** that values:
+  - Empty tiles
+  - Smoothness
+  - Merge potential
+  - Corner tile bonus
+  - Weighted positions
+- Dynamically adjusts search **depth** based on board complexity
+
+It chooses moves that **maximize expected future score** — just like a real strategy player.
+
+---
+
+## 🕹️ How to Play
+
+### Human Mode:
+- Press `Play as Human`
+- Use **Arrow Keys** on desktop
+- Or **Swipe** on mobile/touch devices
+
+### AI Mode:
+- Press `Watch AI Play`
+- Enable **Turbo Mode** if you want rapid decisions
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**
+- **Tailwind CSS**
+- **Vanilla JavaScript**
+- **Remix Icon CDN**
+
+---
+
+## 📦 Installation & Usage
+
+```bash
+git clone https://github.com/your-username/2048-ai-game.git
+cd 2048-ai-game
+# Then just open index.html in your browser
+Or just double-click the index.html file in your system.
+
+---
+
+👨‍💻 Author
+Venkata Bhuvan Kosuru
+
+
+
