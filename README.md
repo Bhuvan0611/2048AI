@@ -72,10 +72,6 @@ It chooses moves that **maximize expected future score** — just like a real st
 
 ---
 
-👨‍💻 Author
-
-Venkata Bhuvan Kosuru
-
 ## 📦 Installation & Usage
 
 
